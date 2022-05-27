@@ -1,2 +1,2 @@
-from Sonu import Main
-Main()
+from Sonu import xoshnaw
+xoshnaw()
